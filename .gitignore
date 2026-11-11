@@ -1,0 +1,6 @@
+*.bak
+*~
+.~lock*
+# the riser is someone else's model: never commit it
+frontleft.stl
+*.3mf
