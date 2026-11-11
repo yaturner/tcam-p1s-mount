@@ -56,6 +56,8 @@ Step-by-step assembly and installation:
 
 ![corner bracket assembly](docs/corner_assembly.png)
 
+Printable version (US Letter, landscape): [corner_assembly.pdf](docs/corner_assembly.pdf)
+
 This version is a closed triangle that fits the front-left corner, with one leg on each wall and a diagonal brace between them. A low rail along the front wall connects it to the pivot arm, which keeps its own small taped pad. The camera stays in the same spot as in the other versions; nothing else fits between the printer top and the glass.
 
 - **Tape area:** about 600 mm² across both walls: fin ends, the solid band under the LED channel, and the corner post's face. Because it's bonded to two walls at 90°, the camera's weight mostly loads the tape in shear, not peel.
